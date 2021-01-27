@@ -35,3 +35,9 @@ Selenium is a Python library and tool used for automating web browsers to do a n
 • Weather link-   https://www.weather.gov/ 
 
 • Amzon link-     https://www.amazon.in/s?k=phone+under+20000&ref=nb_sb_noss_1
+
+• Flipkart link-      https://www.flipkart.com/
+
+• Glassdoor link-      https://www.glassdoor.co.in/
+
+• Myntra link-      https://www.myntra.com/
